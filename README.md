@@ -115,3 +115,26 @@ You should have the GitHub and better Github Desktop installed and configured (p
 * Addition of the paper “my example of paper”.
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo14.png" width="600" height="350">
 
+* Addition of a definition for the metric Coupling/Decoupling.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo15.png" width="600" height="350">
+
+* <p align="justify"> In the added paper, the metric Coupling/Decoupling is used to measure the attribute maintainability. For this reason, we add an association between the metric and the attribute, linking with the paper.</p>
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo16.png" width="600" height="350">
+
+* After changing the file and saving it, we close it and go back to GitHub Desktop to see the changes we performed.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo17.png" width="600" height="350">
+
+* On the bottom left corner, type in the “Summary (required)” box a name for your commit (e.g., “update”) and click on “Commit to new-branchxyz”.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo18.png" width="600" height="350">
+
+* Then, click on “Publish branch” to push the commit.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo19.png" width="600" height="350">
+
+* Click on “Fork this repository”:
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo20.png" width="600" height="350">
+
+* Click on "Continue".
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo21.png" width="600" height="350">
+
+* And it’s finished. Your contribution is done! Now the repository administrators will receive a notification in order to perform a pull request of your changes or reject it.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo22.png" width="600" height="350">
