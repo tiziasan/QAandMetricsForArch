@@ -93,4 +93,10 @@ You should have the GitHub and better Github Desktop installed and configured (p
 ##### Edit / Add quality definitions
 
 * Open Eclipse IDE and click on “Run Eclipse Application”
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo8.png" width="600" height="350">
 
+* Click on “Eclipse Application”. A new instance of Eclipse (that you will use from now on) will be executed.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo9.png" width="600" height="350">
+
+* In the new instance of Eclipse, click on “File− >Import...”.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo10.png" width="600" height="350">
