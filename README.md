@@ -78,5 +78,13 @@ You should have the GitHub and better Github Desktop installed and configured (p
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo2.png" width="600" height="350">
 
+* The resulting screen should look like the following:
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo4.png" width="600" height="350">
+
+* Create a new branch (Click on “New branch”).
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo5.png" width="600" height="350">
+
+* Type a name for the branch (e.g., “new-branchxyz”) and clink on “Create branch”
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo6.png" width="600" height="350">
 
 
