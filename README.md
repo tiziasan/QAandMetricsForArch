@@ -61,7 +61,7 @@ in the previous sections.</p>
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/editing.png" width="700" height="450"> 
 
 ### Pre-requisites:
-You should have the GitHub and better Github Desktop installed and configured (please refer to this [link] (https://desktop.github.com/) for more instructions) with your account.
+You should have the GitHub and better Github Desktop installed and configured (please refer to this [link](https://desktop.github.com/) for more instructions) with your account.
 
 
 
