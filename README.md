@@ -100,3 +100,18 @@ You should have the GitHub and better Github Desktop installed and configured (p
 
 * In the new instance of Eclipse, click on “File− >Import...”.
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo10.png" width="600" height="350">
+
+* Then, select “Projects from Folder or Archive” and click on “Next”.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo11.png" width="600" height="350">
+
+* Click on “Directory”, Select the folder “catalog” in the folder belonging to the repository you cloned in a previous step. Then Click on “Finish”.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo12.png" width="600" height="350">
+
+* The resulting screen should look like the following:
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo13.png" width="600" height="350">
+
+##### Add your contribution to the catalog
+
+* Addition of the paper “my example of paper”.
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo14.png" width="600" height="350">
+
