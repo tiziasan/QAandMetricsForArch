@@ -69,5 +69,11 @@ You should have the GitHub and better Github Desktop installed and configured (p
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo1.png" width="600" height="350">
 
+* Open GitHub Desktop and click on “Clone a repository from the Internet...”
+
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo2.png" width="600" height="350">
+
+* <p align="justify"> Click on “URL” and then paste the copied URL to the “Repository URL or GitHub username and repository” box. Finally, click on “Clone” to clone the repository </p>
+
 
 
