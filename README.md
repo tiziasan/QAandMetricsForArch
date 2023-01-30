@@ -67,7 +67,7 @@ You should have the GitHub and better Github Desktop installed and configured (p
 
 * Copy the repository URL address from GitHub.
 
-<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo1.png" width="700" height="450">
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo1.png" width="600" height="350">
 
 
 
