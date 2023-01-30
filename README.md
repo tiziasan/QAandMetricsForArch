@@ -65,7 +65,7 @@ in the previous sections.</p>
 You should have the GitHub and better Github Desktop installed and configured (please refer to this [link](https://desktop.github.com/) for more instructions) with your account.
 
 #### Steps:
-
+##### Clone a repository from the GitHub and Create a new branch
 * Copy the repository URL address from GitHub.
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo1.png" width="600" height="350">
@@ -90,5 +90,7 @@ You should have the GitHub and better Github Desktop installed and configured (p
 * The resulting screen should look like the following:
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/repo7.png" width="600" height="350">
 
+##### Edit / Add quality definitions
 
+* Open Eclipse IDE and click on “Run Eclipse Application”
 
